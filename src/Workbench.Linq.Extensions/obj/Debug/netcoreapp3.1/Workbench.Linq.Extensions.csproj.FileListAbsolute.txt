@@ -1,0 +1,12 @@
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.deps.json
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.pdb
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Comparer.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Comparer.pdb
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csprojAssemblyReference.cache
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.AssemblyInfoInputs.cache
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.AssemblyInfo.cs
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csproj.CoreCompileInputs.cache
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csproj.CopyComplete
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.pdb

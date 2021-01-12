@@ -1,0 +1,14 @@
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.deps.json
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.pdb
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.pdb
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.pdb
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\obj\Debug\netcoreapp3.1\DesignPatternSamples.Application.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Application\obj\Debug\netcoreapp3.1\DesignPatternSamples.Application.pdb

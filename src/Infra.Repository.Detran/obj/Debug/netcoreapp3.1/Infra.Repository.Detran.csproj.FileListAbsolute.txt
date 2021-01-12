@@ -1,0 +1,16 @@
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.deps.json
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.pdb
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.pdb
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.pdb
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.pdb
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.csprojAssemblyReference.cache
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.AssemblyInfoInputs.cache
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.AssemblyInfo.cs
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.csproj.CoreCompileInputs.cache
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.csproj.CopyComplete
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.pdb

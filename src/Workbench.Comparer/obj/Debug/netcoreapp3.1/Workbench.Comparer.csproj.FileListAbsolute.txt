@@ -1,0 +1,9 @@
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Comparer\bin\Debug\netcoreapp3.1\Workbench.Comparer.deps.json
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Comparer\bin\Debug\netcoreapp3.1\Workbench.Comparer.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Comparer\bin\Debug\netcoreapp3.1\Workbench.Comparer.pdb
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.csprojAssemblyReference.cache
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.AssemblyInfoInputs.cache
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.AssemblyInfo.cs
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.csproj.CoreCompileInputs.cache
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.dll
+D:\Projeto_design_patterns_Com_Csharp\Estudos_projeto_Desing_patterns\src\Workbench.Comparer\obj\Debug\netcoreapp3.1\Workbench.Comparer.pdb
